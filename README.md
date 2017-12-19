@@ -4,6 +4,7 @@
 Airbnb website with webpack (using webpack-dev-server)
 
 #DEMO
+
 http://118.31.9.204/airbnb/
 
 100% clone Airbnb Website with webpack
@@ -14,7 +15,7 @@ http://118.31.9.204/airbnb/
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:3000
 npm run dev
 
 # build for production with minification
